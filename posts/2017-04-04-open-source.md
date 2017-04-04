@@ -1,10 +1,12 @@
 # So You're a Total Casual Using an Open Source Social Network For the First Time
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy 25th birthday, <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a>! Here&#39;s your f-ing <a href="https://twitter.com/hashtag/cake?src=hash">#cake</a>, go ahead and compile it yourself. <a href="https://t.co/OCQUDPhlXY">pic.twitter.com/OCQUDPhlXY</a></p>&mdash; Bogdan Botezatu (@bbotezatu) <a href="https://twitter.com/bbotezatu/status/768756952528723969">August 25, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy 25th birthday, <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a>! Here&#39;s your f-ing <a href="https://twitter.com/hashtag/cake?src=hash">#cake</a>, go ahead and compile it yourself. 
+
+<a href="https://t.co/OCQUDPhlXY"><img src="https://pbs.twimg.com/media/CqssXMfXEAAwPcI.jpg" width=500px /></a></p>&mdash; Bogdan Botezatu (@bbotezatu) <a href="https://twitter.com/bbotezatu/status/768756952528723969">August 25, 2016</a></blockquote>
 
 OK, so a lot of people are joining [Mastodon](http://mastodon.social), and tooting about problems they've spotted, or wondering why feature *X* is missing, and so on. So I thought it might be useful to explain how things work when the applications you use *aren't* run by giant corporations. 
 
-## Cake
+## Cake 🎂
 
 When you use Windows or Instagram or whatever, it's kind of like getting a cake. The great thing is that someone already baked it for you. And if you find a fly stuck to the icing, you can take the cake back to the store and get a refund. 
 
@@ -12,7 +14,7 @@ However, the recipe is top secret, and only the bakery owns it. If the bakery cl
 
 Some cakes are different. They're "open source". It basically means that the recipe is free and publicly available. Usually the people who came up with the recipe also bake and give away the cakes for free. If you want to change the official recipe, you can do that—or you can make your own cakes, as long as you share your recipe. Lots of people just get free cake. There are still bakeries, but because everything is free, they tend to be non-profit or supported by someone's side business. There are also lots of people who just bake at home as a hobby. A lot of the big free bakeries use their recipes.<sup id="ref1">[1](#fn1)</sup>
 
-## Lower Your Expectations
+## 🎶 Lower Your Expectations 🎶
 
 So the "recipe" is source code. Some of the "cakes" include Android, Firefox, and Wordpress—but also the programming languages they're written in, the web server software that runs them, and other really fundamental parts of the Internet. I think [the Heartbleed bug really exposed](http://mashable.com/2014/04/14/heartbleed-open-source) how much of the Internet runs on open source software run by, like, some guy in his underwear at 3 a. m. 
 
@@ -26,7 +28,7 @@ The upside is that—unlike with Twitter or Facebook—you actually have a big r
 
 If you see something that's broken, or you think there's a feature that should work differently, or you come up with a way to improve the service, it is up to *you* to make your voice heard. You *can't* assume that someone else has spotted the same thing you have and will fix it in short order. Conversely, if you come up with a good idea, you can't assume that no one "in charge" will listen to a random user. You have the power to make changes yourself.
 
-## How To Get Involved
+## How To Get Involved 💪
 
 Using small and early-stage open source software like Mastodon requires a bit more engagement. You don't have to know how to code! There are many other ways to contribute, including:
 
